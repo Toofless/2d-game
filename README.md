@@ -1,2 +1,2 @@
 # 2d-game
-an 8-bit game
+My first 8-bit game.
